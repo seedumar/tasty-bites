@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "category": "Shawarma",
+    "name": "Mozzarella Chicken Shawarma",
+    "price": 3000
+  },
+  {
+    "id": 2,
+    "category": "Shawarma",
+    "name": "BBQ Steak Shawarma",
+    "price": 3000
+  },
+  {
+    "id": 3,
+    "category": "Shawarma",
+    "name": "Pure Chicken Shawarma",
+    "price": 3000
+  },
+  {
+    "id": 4,
+    "category": "Shawarma",
+    "name": "Crispy Twister",
+    "price": 3000
+  },
+  {
+    "id": 5,
+    "category": "Shawarma",
+    "name": "Mamu Special",
+    "price": 2800
+  },
+  {
+    "id": 6,
+    "category": "Shawarma",
+    "name": "Beef Shawarma",
+    "price": 2700
+  },
+  {
+    "id": 7,
+    "category": "Shawarma",
+    "name": "Mexican Shawarma",
+    "price": 2700
+  },
+  {
+    "id": 8,
+    "category": "Shawarma",
+    "name": "Garlic Chicken Shawarma",
+    "price": 2700
+  },
+  {
+    "id": 9,
+    "category": "Stir-Fries",
+    "name": "Fragrant Rice",
+    "price": 4500
+  },
+  {
+    "id": 10,
+    "category": "Stir-Fries",
+    "name": "Noodles",
+    "price": 4500
+  },
+  {
+    "id": 11,
+    "category": "Stir-Fries",
+    "name": "Vegetarian Mix",
+    "price": 4500
+  },
+  {
+    "id": 12,
+    "category": "Burgers",
+    "name": "Mozzarella Burger",
+    "price": 3500
+  },
+  {
+    "id": 13,
+    "category": "Burgers",
+    "name": "BBQ Chicken Burger",
+    "price": 3500
+  },
+  {
+    "id": 14,
+    "category": "Burgers",
+    "name": "Double Decker",
+    "price": 4500
+  },
+  {
+    "id": 15,
+    "category": "Burgers",
+    "name": "Mexican Burger",
+    "price": 4500
+  },
+  {
+    "id": 16,
+    "category": "Burgers",
+    "name": "Chicken Burger with Cheese",
+    "price": 3300
+  },
+  {
+    "id": 17,
+    "category": "Burgers",
+    "name": "Beef Burger with Cheese",
+    "price": 3300
+  },
+  {
+    "id": 18,
+    "category": "Burgers",
+    "name": "Beef/Chicken Burger, no Cheese",
+    "price": 2500
+  },
+  {
+    "id": 19,
+    "category": "Rice Menu",
+    "name": "White Rice with Beef Sauce",
+    "price": 3200
+  },
+  {
+    "id": 20,
+    "category": "Rice Menu",
+    "name": "White Rice with Chicken Sauce",
+    "price": 3500
+  },
+  {
+    "id": 21,
+    "category": "Rice Menu",
+    "name": "Jollof Rice with Beef Sauce",
+    "price": 3800
+  },
+  {
+    "id": 22,
+    "category": "Rice Menu",
+    "name": "Jollof Rice with Chicken Sauce",
+    "price": 4100
+  },
+  {
+    "id": 23,
+    "category": "Rice Menu",
+    "name": "Fried Rice with Beef Sauce",
+    "price": 3800
+  },
+  {
+    "id": 24,
+    "category": "Rice Menu",
+    "name": "Fried Rice with Chicken Sauce",
+    "price": 4100
+  },
+  {
+    "id": 25,
+    "category": "Rice Menu",
+    "name": "White Rice Only",
+    "price": 1500
+  },
+  {
+    "id": 26,
+    "category": "Rice Menu",
+    "name": "Fried Rice Only",
+    "price": 2500
+  },
+  {
+    "id": 27,
+    "category": "Rice Menu",
+    "name": "Jollof Rice Only",
+    "price": 2500
+  },
+  {
+    "id": 28,
+    "category": "Rice Menu",
+    "name": "Chinese Rice Only",
+    "price": 4000
+  },
+  {
+    "id": 29,
+    "category": "Rice Menu",
+    "name": "Potato Chips",
+    "price": 4000
+  },
+  {
+    "id": 30,
+    "category": "Delicious Subs",
+    "name": "Fajita",
+    "price": 2800
+  },
+  {
+    "id": 31,
+    "category": "Delicious Subs",
+    "name": "Philadelphia",
+    "price": 2800
+  },
+  {
+    "id": 32,
+    "category": "Delicious Subs",
+    "name": "Zinger Combo",
+    "price": 2800
+  },
+  {
+    "id": 33,
+    "category": "Delicious Subs",
+    "name": "Club Sandwich (2 pcs)",
+    "price": 2800
+  },
+  {
+    "id": 34,
+    "category": "Delicious Subs",
+    "name": "Potato Sandwich",
+    "price": 2000
+  },
+  {
+    "id": 35,
+    "category": "Pasta",
+    "name": "White Pasta with Beef Sauce",
+    "price": 3200
+  },
+  {
+    "id": 36,
+    "category": "Pasta",
+    "name": "White Pasta with Chicken Sauce",
+    "price": 3500
+  },
+  {
+    "id": 37,
+    "category": "Pasta",
+    "name": "Veggie Pasta with Beef Sauce",
+    "price": 3800
+  },
+  {
+    "id": 38,
+    "category": "Pasta",
+    "name": "Veggie Pasta with Chicken Sauce",
+    "price": 4100
+  },
+  {
+    "id": 39,
+    "category": "Loaded Fries",
+    "name": "Loaded Fries Medium",
+    "price": 4000
+  },
+  {
+    "id": 40,
+    "category": "Loaded Fries",
+    "name": "Loaded Fries Large",
+    "price": 5500
+  },
+  {
+    "id": 41,
+    "category": "Loaded Fries",
+    "name": "Chips and Sausage",
+    "price": 4000
+  },
+  {
+    "id": 42,
+    "category": "Loaded Fries",
+    "name": "Chips and Omelette",
+    "price": 2700
+  },
+  {
+    "id": 43,
+    "category": "Loaded Fries",
+    "name": "Chips Only",
+    "price": 2200
+  },
+  {
+    "id": 44,
+    "category": "Loaded Fries",
+    "name": "Extra Sausage",
+    "price": 500
+  },
+  {
+    "id": 45,
+    "category": "Wings",
+    "name": "BBQ Wings",
+    "price": 3500
+  },
+  {
+    "id": 46,
+    "category": "Wings",
+    "name": "Crispy Wings",
+    "price": 3000
+  },
+  {
+    "id": 47,
+    "category": "Wings",
+    "name": "Peppered Wings (each)",
+    "price": 500
+  },
+  {
+    "id": 48,
+    "category": "Snacks",
+    "name": "Samosa",
+    "price": 250
+  },
+  {
+    "id": 49,
+    "category": "Snacks",
+    "name": "Veg Spring Rolls",
+    "price": 250
+  },
+  {
+    "id": 50,
+    "category": "Snacks",
+    "name": "Yamballs",
+    "price": 350
+  }
+]

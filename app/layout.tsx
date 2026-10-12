@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Tasty Bites | Order Online",description:"Fresh favourites, made to order."}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
